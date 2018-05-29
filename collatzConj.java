@@ -1,9 +1,9 @@
 
 /**
- * Write a description of class collatzConj here.
+ * 
  *
- * @author (your name)
- * @version (a version number or a date)
+ * @Wesley Miller
+ * @1.1
  */
 public class collatzConj
 {
